@@ -1,0 +1,73 @@
+syllogism,syllogism_correct_ans
+"Premise 1: All things that are smoked are good for the health.
+Premise 2: Cigarettes are smoked.
+Conclusion: Cigarettes are good for the health.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",y
+"Premise 1: All unemployed people are poor.
+Premise 2: Rockefeller is not unemployed.
+Conclusion: Rockefeller is not poor.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",n
+"Premise 1: All flowers have petals.
+Premise 2: Roses have petals.
+Conclusion: Roses are flowers.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",n
+"Premise 1: All animals with four legs are dangerous.
+Premise 2: Poodles are not dangerous.
+Conclusion: Poodles are not four-legged animals.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",y
+"Premise 1: All mammals walk.
+Premise 2: Whales are mammals.
+Conclusion: Whales walk.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",y
+"Premise 1: All eastern countries are communist.
+Premise 2: Canada is not an eastern country.
+Conclusion: Canada is not communist.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",n
+"Premise 1: All animals love water.
+Premise 2: Cats do not like water.
+Conclusion: Cats are not animals.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",y
+"Premise 1: All things that have a motor need oil.
+Premise 2: Automobiles need oil.
+Conclusion: Automobiles have motors.
+
+Does the conclusion follow from the premises?
+
+ 
+ (To answer 'yes' - press the 'y' key 
+ To answer 'no' - press the 'n' key)",n

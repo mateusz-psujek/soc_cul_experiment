@@ -1,0 +1,31 @@
+msg_welcome,msg_invest_instructions
+"Welcome to the experiment! 
+
+Your initial score is 1054 points. 
+In a minute, you'll be asked to perform different tasks. The goal is to get as many points as possible. 
+
+If, at any point, you need to leave the experiment before it's finished, press the 'escape' key. Be aware that data won't be saved if you do that.
+Otherwise, press 'space' to move forward.
+
+Good luck!","This part of the experiement consists of 3 succesive rounds. In each round you will start with your current total score. You must decide what part of this amount (between 0 and 100 points) you wish to
+bet in the following lottery:
+
+You have a chance of 2/3 (67%) to lose the amount you bet and a chance of 1/3 (33%) to win two and a half times the amount you bet. 
+
+(Press 'space' to move to the first round)"
+"Welcome to the experiment!
+
+You have been randomly assigned to group number 2 and are now this group's third and last member.
+As of now, your group score is 1024 points.
+In a minute, you'll be asked to perform different tasks. The goal is to get as many points for your team as possible.
+
+If, at any point, you need to leave the experiment before it's finished, press the 'escape' key. Be aware that data won't be saved if you do that.
+
+Otherwise, press 'space' to move forward.
+
+Good luck!","This part of the experiement consists of 3 succesive rounds (for each group member, so 9 in total for your entire group). In each round you will start with your current total score. You must decide what part of this amount (between 0 and 100 points) you wish to
+bet in the following lottery:
+
+You have a chance of 2/3 (67%) to lose the amount you bet and a chance of 1/3 (33%) to win two and a half times the amount you bet. 
+
+(Press 'space' to move to the first round)"
